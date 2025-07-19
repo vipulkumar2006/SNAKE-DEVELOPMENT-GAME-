@@ -187,3 +187,4 @@ int main() {
     }
     return 0;
 }
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/319794fb-aeaa-4fda-89e1-2bfb747b2e53" />
